@@ -4,9 +4,9 @@
 class Date
 {
 private:
-	int day;
-	int month;
-	int year;
+	int dd;
+	int mm;
+	int yy;
 
 public:
 	Date() = default;

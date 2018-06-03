@@ -7,5 +7,4 @@ void main()
 	cout << "Current time: " << t << endl;
 	Date::CurDate(t);
 	cout << "Current date: " << t << endl;
-
 }
